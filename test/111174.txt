@@ -1,0 +1,4 @@
+Jumlah solusi yang didapatkan adalah: 2
+Waktu yang dibutuhkan adalah: 0.000511 detik
+(7-(11/11))*4
+4*(7-(11/11))
