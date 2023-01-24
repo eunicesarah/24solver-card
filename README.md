@@ -26,5 +26,5 @@ Tucil1_13521013
 ### Cara menjalankan program
 g++ -o bin\algorithm.exe src\algorithm.cpp
 
-###Author
+### Author
 Eunice Sarah Siregar - 13521013
